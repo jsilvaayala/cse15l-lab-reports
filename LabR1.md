@@ -36,3 +36,7 @@ Once you have set up the terminal, run the following code (Your command will be 
 
 `$ ssh cs15lsp23zz@ieng6.ucsd.edu`
 
+(Note: Do not type in the "$" when running the command. It is there to represent what you should type after it)
+
+
+
