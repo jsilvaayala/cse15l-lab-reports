@@ -12,4 +12,5 @@ Follow the instructions on the website carefully.
 There are diffrent versions for diffrent operating systems so be sure to choose the correct one.
 (Note: If you prefrer to do it on the computers in the lab you can open VS Code on any of the computers.)
 
+You should be able to open a window that looks like this:
 
