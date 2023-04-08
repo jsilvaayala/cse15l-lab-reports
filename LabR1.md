@@ -26,5 +26,10 @@ The first step is intalling git for Windows. If you are on macOS you do not need
 
 Windows
 ---
+Once you have installed git follow the steps in the following link to use the newly installed git bash in VS Code.
+[Using Bash for Windows](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994)
+
+Logging in
+---
 
 
