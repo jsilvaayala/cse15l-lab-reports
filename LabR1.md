@@ -33,10 +33,10 @@ Mac
 When using macOS you will be able to open it directly on VS Code without having to intall anything.
 
 The first step willl be to open a new terminal. To do this go to "Terminal" and click the "New Terminal button".
-![Image]()
+![Image](Terminal.png)
 
 The next step is to switch from zsh to bash. We do this by clicking the drop down menu next to the plus button and selecting "bash".
-![Image]()
+![Image](Bash.png)
 
 Logging in
 ---
