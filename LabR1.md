@@ -16,4 +16,8 @@ You should be able to open a window that looks like this:
 
 ![Image](VS.png)
 
-(It may look diffrent sepdnign on the system settings)
+(It may look diffrent depending on the system settings)
+
+## Connecting Remotely 
+
+
