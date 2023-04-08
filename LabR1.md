@@ -14,4 +14,6 @@ There are diffrent versions for diffrent operating systems so be sure to choose 
 
 You should be able to open a window that looks like this:
 
+![Image](Screenshot 2023-04-07 at 6.35.06 PM.png)
 
+(It may look diffrent sepdnign on the system settings)
