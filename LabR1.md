@@ -20,4 +20,8 @@ You should be able to open a window that looks like this:
 
 ## Connecting Remotely 
 
+The first step is intalling git for Windows. If you are on macOS you do not need to download anything.
+
+[Git for Windows](https://gitforwindows.org/)
+
 
