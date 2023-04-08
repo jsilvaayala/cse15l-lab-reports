@@ -32,4 +32,6 @@ Once you have installed git follow the steps in the following link to use the ne
 Logging in
 ---
 
+Once you have set up the terminal, run the following code (Your command will be the same except for the "zz" which will be replaced by the letteres in your course specific account).
 
+'$ ssh cs15lsp23zz@ieng6.ucsd.edu'
