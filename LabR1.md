@@ -60,5 +60,12 @@ More details about this message can be found here: [Terminal Message](https://su
 Type yes and then enter the password you made whne you were asked to reset. (Note: No text or symbols will appear when you are typing your password. If you misinput your password a new line will appear where you will have to enter your password once again.)
 
 
-Once you have logged in you should see something similar to the image below
+Once you have logged in you should see something similar to the image below in yout terminal.
 ![Image](Login.png)
+
+Now your computer is connected to a computer in the CSE basement.
+
+## Running Commands
+Now that you are logged in try running some commands in the termnal to see if they work. Here are a few examples I ran on mine.
+
+![Image]()
