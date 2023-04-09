@@ -68,4 +68,4 @@ Now your computer is connected to a computer in the CSE basement.
 ## Running Commands
 Now that you are logged in try running some commands in the termnal to see if they work. Here are a few examples I ran on mine.
 
-![Image]()
+![Image](Commands.png)
