@@ -53,6 +53,12 @@ The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 ```
+It is usual to get this message whne connceting to a server for the first time. I (Jorge) always say yes. If you get this message wehn connecting to a sever you connect to often it could mean someone is trying to control the connection or trying to listen in on your connection.
+
+More details about this message can be found here: [Terminal Message](https://superuser.com/questions/421074/ssh-the-authenticity-of-host-host-cant-be-established/421084#421084)
+
+Type yes and then enter the password you made whne you were asked to reset. (Note: No text or symbols will appear when you are typing your password. If you misinput your password a new line will appear where you will have to enter your password once again.)
 
 
-
+Once you have logged in you should see something similar to the image below
+![Image]()
