@@ -47,5 +47,12 @@ Once you have set up the terminal, run the following code (Your command will be 
 
 (Note: Do not type in the "$" when running the command. It is there to represent what you should type after it)
 
+Since this the the first time that you will be connecting to this server the following message will pop-up:
+```
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+```
+
 
 
