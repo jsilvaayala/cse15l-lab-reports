@@ -1,12 +1,12 @@
 # CSE 15L Remote Access
 
-## #1 CSE15L Account 
+## 1) CSE15L Account 
 The first step is to look up your course-specific account. Use this link to find it:
 [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
 
 You will have to reset your password - this link will show you step by step on how to do this: [Step by Step Tutorial](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view)
 
-## Installing VS Code
+## 2) Installing VS Code
 The second step is installing [VS Code](https://code.visualstudio.com/)
 Follow the instructions on the website carefully.
 There are diffrent versions for diffrent operating systems so be sure to choose the correct one.
@@ -18,7 +18,7 @@ You should be able to open a window that looks like this:
 
 (It may look diffrent depending on the system settings)
 
-## Connecting Remotely 
+## 3) Connecting Remotely 
 
 The first step is intalling git for Windows. If you are on macOS you do not need to download anything.
 
@@ -67,7 +67,7 @@ Once you have logged in you should see something similar to the image below in y
 
 Now your computer is connected to a computer in the CSE basement.
 
-## Running Commands
+## 4) Running Commands
 Now that you are logged in try running some commands in the termnal to see if they work. Here are a few examples I ran on mine.
 
 ![Image](Commands.png)
@@ -86,3 +86,4 @@ Try some of the following commands:
 
 Finally to log out of the computer you type "exit" into the terminal or use Ctrl + D.
 
+## 5)
