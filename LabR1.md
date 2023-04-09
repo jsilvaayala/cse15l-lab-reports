@@ -71,3 +71,10 @@ Now your computer is connected to a computer in the CSE basement.
 Now that you are logged in try running some commands in the termnal to see if they work. Here are a few examples I ran on mine.
 
 ![Image](Commands.png)
+
+Try some of the following commands:
+`cd ~`
+`ls -lat`
+`ls -a`
+`cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
+`cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
