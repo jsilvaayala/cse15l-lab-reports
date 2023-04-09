@@ -73,6 +73,7 @@ Now that you are logged in try running some commands in the termnal to see if th
 ![Image](Commands.png)
 
 Try some of the following commands:
+
 `cd ~`
 
 `ls -lat`
