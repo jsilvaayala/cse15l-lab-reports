@@ -1,6 +1,6 @@
 # CSE 15L Remote Access
 
-## CSE15L Account 
+## #1 CSE15L Account 
 The first step is to look up your course-specific account. Use this link to find it:
 [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
 
@@ -83,3 +83,6 @@ Try some of the following commands:
 `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 
 `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+
+Finally to log out of the computer you type "exit" into the terminal or use Ctrl + D.
+
