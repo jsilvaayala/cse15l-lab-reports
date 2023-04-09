@@ -74,7 +74,11 @@ Now that you are logged in try running some commands in the termnal to see if th
 
 Try some of the following commands:
 `cd ~`
+
 `ls -lat`
+
 `ls -a`
+
 `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
+
 `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
