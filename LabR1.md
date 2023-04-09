@@ -55,7 +55,7 @@ The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 ```
-It is usual to get this message whne connceting to a server for the first time. I (Jorge) always say yes. If you get this message wehn connecting to a sever you connect to often it could mean someone is trying to control the connection or trying to listen in on your connection.
+It is usual to get this message when connceting to a server for the first time. I (Jorge) always say yes. If you get this message wehn connecting to a sever you connect to often it could mean someone is trying to control the connection or trying to listen in on your connection.
 
 More details about this message can be found here: [Terminal Message](https://superuser.com/questions/421074/ssh-the-authenticity-of-host-host-cant-be-established/421084#421084)
 
@@ -85,5 +85,3 @@ Try some of the following commands:
 `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
 Finally to log out of the computer you type "exit" into the terminal or use Ctrl + D.
-
-## 5)
