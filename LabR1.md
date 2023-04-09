@@ -61,4 +61,4 @@ Type yes and then enter the password you made whne you were asked to reset. (Not
 
 
 Once you have logged in you should see something similar to the image below
-![Image]()
+![Image](Login.png)
