@@ -8,6 +8,7 @@ You will have to reset your password - this link will show you step by step on h
 
 ## 2) Installing VS Code
 The second step is installing [VS Code](https://code.visualstudio.com/)
+
 Follow the instructions on the website carefully.
 There are diffrent versions for diffrent operating systems so be sure to choose the correct one.
 (Note: If you prefrer to do it on the computers in the lab you can open VS Code on any of the computers.)
