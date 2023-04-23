@@ -77,12 +77,22 @@ Try some of the following commands:
 
 `cd ~`
 
+This command changes your current working directory to your home directory.
+
 `ls -lat`
+
+This command is used to list files and directions in a directory in a long format, sorted by modification
 
 `ls -a`
 
+This command lists all files and directories.
+
 `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 
+This command will copy the hello.txt file into the hime directory.
+
 `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+
+This command displays the contents of the hello.txt file.
 
 Finally to log out of the computer you type "exit" into the terminal or use Ctrl + D.
