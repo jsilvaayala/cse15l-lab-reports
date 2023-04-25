@@ -1,6 +1,7 @@
 # Lab Report 2
 ## Part 1
 ![Image](AddMessage.png)
+
 ![Image](Hello.png)
 The methods that are being callled are the get query method,split method and the get path method.
 
