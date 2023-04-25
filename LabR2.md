@@ -1,4 +1,14 @@
 # Lab Report 2
+## Part 1
+![Image](AddMessage.png)
+![Image](Hello.png)
+The methods that are being callled are the get query method,split method and the get path method.
+
+The values specific to this is the message variable which gets added anything after the query and then prints it to the screen.
+![Image](HowAreYou.png)
+
+The values specific to this is the message variable which gets added anything after the query and then prints it to the screen.
+
 ## Part 2
 The following block of code should return a new array with all of the elements in the input array in reversed order.
 ```
