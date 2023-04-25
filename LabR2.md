@@ -26,3 +26,8 @@ Here is the function code:
   ```
 ## Part 3
 In week 3 I learned how to notice symptoms from a code. I learned to read the symptoms to find the code that was failing. I also learned how to use JUNIT tests in order to test my code.
+![Image](Symptoms.png)
+
+This image shows the message that shows the error I recieved which help me find what exactly was failing in my code.
+![Image](JUNIT.png)
+This immage shows how I implemented JUNIT tests to see if my code ran correctly without any bugs.
