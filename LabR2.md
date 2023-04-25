@@ -11,6 +11,7 @@ The following block of code should return a new array with all of the elements i
   }
 ```
 Insted of revesing the order the array would be full of zeros.
+!Image()
 
 To fix this code I switched which array was being copied and returned the new array that was produced.
 Here is the function code:
