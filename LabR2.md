@@ -30,4 +30,5 @@ In week 3 I learned how to notice symptoms from a code. I learned to read the sy
 
 This image shows the message that shows the error I recieved which help me find what exactly was failing in my code.
 ![Image](JUNIT.png)
-This immage shows how I implemented JUNIT tests to see if my code ran correctly without any bugs.
+
+This image shows how I implemented JUNIT tests to see if my code ran correctly without any bugs.
