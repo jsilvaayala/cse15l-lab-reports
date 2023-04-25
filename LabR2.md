@@ -1,5 +1,5 @@
-# Lab Report 2
-## Part 2
+#Lab Report 2
+##Part 2
 The following block of code should return a new array with all of the elements in the input array in reversed order.
 ```
   static int[] reversed(int[] arr) {
@@ -24,3 +24,5 @@ Here is the function code:
     return newArray;
   }
   ```
+##Part 3
+In week 3 I learned how to notice symptoms from a code. I learned to read the symptoms to find the code that was failing. I also learned how to use JUNIT tests in order to test my code.
