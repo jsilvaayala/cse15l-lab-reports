@@ -8,11 +8,8 @@
 ## File Size
 -size
 
-![Image](Lab3 -size.png)
-
-
-![Image](Lab3 -size2.png)
-
+![Image](Lab3-size.png)
+![Image](Lab3-size2.png)
 ## File Type
 -type
 
