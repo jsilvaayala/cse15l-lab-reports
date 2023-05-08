@@ -2,8 +2,11 @@
 
 ## Last Modified
 -mtime
-![Image]
-![Image]
+
+![Image](Lab3-mtime.png)
+![Image](Lab3-mtime2.png)
+![Image](Lab3-mtime3.png)
+![Image](Lab3-mtime4.png)
 
 ## File Size
 -size
@@ -19,6 +22,7 @@
 
 ## Print
 -fprint
+
 ![Image](Lab3-fprint.png)
 ![Image](Lab3-fprint2.png)
 ![Image](Lab3-fprint3.png)
