@@ -7,8 +7,8 @@
 
 ## File Size
 -size
-![Image]()
-![Image]()
+![Image](Lab3 -size.png)
+![Image](Lab3 -size2.png)
 
 ## File Type
 -type
