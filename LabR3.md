@@ -15,8 +15,10 @@
 
 ## File Type
 -type
-![Image]
-![Image]
+
+![Image](Lab3-type.png)
+![Image](Lab3-type2.png)
+![Image](Lab3-type3.png)
 
 ## Print
 -fprint
