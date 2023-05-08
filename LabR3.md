@@ -19,5 +19,6 @@
 
 ## Print
 -fprint
-![Image]
-![Image]
+![Image](Lab3-fprint.png)
+![Image](Lab3-fprint2.png)
+![Image](Lab3-fprint3.png)
